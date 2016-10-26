@@ -1,0 +1,68 @@
+.inner {
+    background: rgb(255, 255, 204);
+}
+
+.special,
+.box {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    /* This part shows the 50% equals to 150px*50% and 300px*50%. */
+    font-size: 50px;
+    text-align: center;
+    line-height: 100px;
+    font-family: arial;
+    font-weight: 900;
+}
+
+.box {
+    background: gold;
+}
+
+.special {
+    background: red;
+    color: white;
+}
+
+.special1 {
+    background: rgb(255, 255, 204);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    /* This part shows the 50% equals to 150px*50% and 300px*50%. */
+    font-size: 50px;
+    text-align: center;
+    line-height: 100px;
+    font-family: arial;
+    font-weight: 900;
+}
+
+.text {
+    font-size: 20px;
+    font-family: arial;
+    font-weight: 700;
+    text-align: center;
+}
+
+.textup {
+    font-size: 20px;
+    font-family: arial;
+    font-weight: 900;
+    text-align: center;
+}
+
+.result {
+    color: red;
+}
+
+.DIV1,
+.DIV2 {
+    float: left;
+    height: 375px;
+}
+.dash{
+     background: url(twl_index_icon_dot_02.jpg) repeat-y 0px 0px;
+    height: 375px;
+    width: 2px;
+    float: left;
+}
